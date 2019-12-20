@@ -34,7 +34,7 @@ GIF created with [Recordit](https://recordit.co/).
 
 ## Notes
 
-The simulator seems a bit buggy, labels that show in my preview sometimes don't show in the simulator unless I move stuff around.
+NIL
 
 ## License
 
