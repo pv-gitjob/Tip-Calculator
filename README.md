@@ -34,7 +34,7 @@ GIF created with [Recordit](https://recordit.co/).
 
 ## Notes
 
-NIL
+None.
 
 ## License
 
